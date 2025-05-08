@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Plasticpaper", "Plasticpaper\Plasticpaper.pyproj", "{43A80A1A-B8E9-4150-BF05-639EF5685D9E}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Modelpaper", "Modelpaper\Modelpaper.pyproj", "{F3723CB9-01C6-44F0-911D-5BFDA0D5688F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{43A80A1A-B8E9-4150-BF05-639EF5685D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{43A80A1A-B8E9-4150-BF05-639EF5685D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3723CB9-01C6-44F0-911D-5BFDA0D5688F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3723CB9-01C6-44F0-911D-5BFDA0D5688F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
