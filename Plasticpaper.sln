@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Plasticpaper", "Plasticpaper\Plasticpaper.pyproj", "{43A80A1A-B8E9-4150-BF05-639EF5685D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A80A1A-B8E9-4150-BF05-639EF5685D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A80A1A-B8E9-4150-BF05-639EF5685D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72BFEA6A-A734-4EC4-9942-095D5264CB40}
+	EndGlobalSection
+EndGlobal
